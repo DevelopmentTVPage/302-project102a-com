@@ -1,0 +1,73 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "117404479",
+            "title": "\uc131\ub839\ub2d8\uc758 \uc0ac\uc5ed",
+            "date_created": "1445389037",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "\uc131\ub839\ub2d8\uc758 \uc0ac\uc5ed\n\n\uc2ec\ucc3d\uc12d \ubaa9\uc0ac",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Xy6dwQBYUSw\/maxresdefault.jpg",
+                "uploadDate": 1445389037,
+                "videoId": "Xy6dwQBYUSw",
+                "title": "\uc131\ub839\ub2d8\uc758 \uc0ac\uc5ed",
+                "description": "\uc131\ub839\ub2d8\uc758 \uc0ac\uc5ed\n\n\uc2ec\ucc3d\uc12d \ubaa9\uc0ac",
+                "author": "SDCKC",
+                "mediaDuration": 2297,
+                "prettyDuration": "00:38:17",
+                "views": "528"
+            },
+            "parentId": "117404170",
+            "url": "\/test-ii\/\uc131\ub839\ub2d8\uc758-\uc0ac\uc5ed\/117404170-117404479"
+        },
+        {
+            "id": "117404172",
+            "title": "CNL 20 Graduation 2a",
+            "date_created": "1434533736",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/rzQ3DQ9TFcI\/sddefault.jpg",
+                "uploadDate": 1434533736,
+                "videoId": "rzQ3DQ9TFcI",
+                "title": "CNL 20 Graduation",
+                "description": "",
+                "author": "SDCKC",
+                "mediaDuration": 116,
+                "prettyDuration": "00:01:56",
+                "views": "34",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "117404170",
+            "url": "\/test-ii\/cnl-20-graduation\/117404170-117404172"
+        },
+        {
+            "id": "117404151",
+            "title": "Episode 9: Brand TV",
+            "date_created": "1387326790",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "Make your own \"Brand TV\" by creating a customized video experience around your Brand. Increase Brand awareness and Sales with TVPage!",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/rVJPxf3LUe4\/maxresdefault.jpg",
+                "uploadDate": 1387326790,
+                "videoId": "rVJPxf3LUe4",
+                "title": "Episode 9: Brand TV",
+                "description": "Make your own \"Brand TV\" by creating a customized video experience around your Brand. Increase Brand awareness and Sales with TVPage!",
+                "author": "TVPage",
+                "mediaDuration": 253,
+                "prettyDuration": "00:04:13",
+                "views": "16"
+            },
+            "parentId": "117404170",
+            "url": "\/test-ii\/episode-9-brand-tv\/117404170-117404151"
+        }
+    ]
+}
