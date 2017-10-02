@@ -1,0 +1,15 @@
+{
+    "title": "Project 10-2a",
+    "baseURL": "https:\/\/project102a.com\/project102a",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/project102a",
+        "firstpartycookies": true,
+        "cookiedomain": "project102a.com"
+    }
+}
